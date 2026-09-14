@@ -5,7 +5,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-8b5cf6?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-20-0f081d?style=for-the-badge&logo=c%2B%2B)
 ![Qt](https://img.shields.io/badge/Qt-6.7%2B-7c3aed?style=for-the-badge&logo=qt)
-![License](https://img.shields.io/badge/license-MIT-ec4899?style=for-the-badge)
 
 **A Next-Generation, High-Performance Desktop Music Player & Streaming Suite Built with Modern C++20 and Qt 6 QML.**
 
