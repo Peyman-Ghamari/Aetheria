@@ -1,6 +1,5 @@
-![header]([https://capsule-render.vercel.app/api?type=blur&height=300&text=Matrix%20Solver&reversal=false&section=footer&textBg=false&fontColor=A020F0](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aetheria%20Music%20Suite)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aetheria%20Music%20Suite)
 <br>
-
 ---
 <div align="center">
   <img src="assets/gif/Peyman.gif" alt="Aetheria Banner" width="100%">
@@ -130,7 +129,7 @@ Aetheria follows a modular structure decoupling UI presentation from the high-pe
 
 ## ❓ Frequently Asked Questions (FAQ)
 * **Q: How does Aetheria handle large local music libraries?**
-    * *A:* It utilizes an optimized SQLite database with WAL (Write-Ahead Logging) mode, enabling instant startup and low memory overhead even with thousands of tracks.
+  * *A:* It utilizes an optimized SQLite database with WAL (Write-Ahead Logging) mode, enabling instant startup and low memory overhead even with thousands of tracks.
 * **Q: Can I use global hotkeys while playing games or working?**
-    * *A:* Yes! Global shortcuts like `Ctrl + Shift + M` and hardware media keys work system-wide regardless of active application focus.
+  * *A:* Yes! Global shortcuts like `Ctrl + Shift + M` and hardware media keys work system-wide regardless of active application focus.
 
