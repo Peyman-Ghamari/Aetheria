@@ -1,3 +1,5 @@
-# Force GitHub Linguist to properly weigh C++ files
-src/*.cpp linguist-language=C++
-src/*.h linguist-language=C++
+# Force GitHub Linguist to recognize all C++ and QML files recursively
+**.cpp linguist-language=C++
+**.h linguist-language=C++
+**.hpp linguist-language=C++
+**.qml linguist-language=QML
