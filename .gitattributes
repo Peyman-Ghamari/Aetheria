@@ -1,5 +1,8 @@
-# Force GitHub Linguist to recognize all C++ and QML files recursively
-**.cpp linguist-language=C++
-**.h linguist-language=C++
-**.hpp linguist-language=C++
-**.qml linguist-language=QML
+# Exclude QML from main language statistics so C++ takes the primary spot
+*.qml linguist-vendored
+
+# Ensure C++ and CMake are the primary tracked languages
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.hpp linguist-language=C++
+CMakeLists.txt linguist-language=CMake
