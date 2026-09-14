@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=blur&height=300&text=Matrix%20Solver&reversal=false&section=footer&textBg=false&fontColor=A020F0](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aetheria%20Music%20Suite))
+![header]([https://capsule-render.vercel.app/api?type=blur&height=300&text=Matrix%20Solver&reversal=false&section=footer&textBg=false&fontColor=A020F0](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aetheria%20Music%20Suite)
 <br>
 
 ---
