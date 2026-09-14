@@ -1,0 +1,3 @@
+# Force GitHub Linguist to properly weigh C++ files
+src/*.cpp linguist-language=C++
+src/*.h linguist-language=C++
